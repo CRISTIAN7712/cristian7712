@@ -41,11 +41,11 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristian7712&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterhst-p-anurag-hazras-projects.vercel.app/api?username=cristian7712&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristian7712&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian7712&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-masterhst-p-anurag-hazras-projects.vercel.app/api/top-langs/?username=cristian7712&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
 </p>
 
 ---
