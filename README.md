@@ -38,21 +38,20 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhst-p-anurag-hazras-projects.vercel.app/api?username=cristian7712&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristian7712&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/cristian7712">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristian7712&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/cristian7712">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristian7712&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
-| Tendencias de Actividad | Productividad Colaborativa (28d) |
-| :---: | :---: |
-| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=968949263&image_size=auto" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=968949263&image_size=auto" width="400" /> |
-
-| Rendimiento del Repositorio | Contribuidores Activos |
-| :---: | :---: |
-| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=968949263&image_size=auto" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=968949263&limit=10&image_size=auto" width="400" /> |
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian7712&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
