@@ -65,4 +65,8 @@
 
 ---
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 <p align="center">Gracias por pasarte por aquí 😊 ¡Te deseo buen código y cafés cargados! ☕</p>
