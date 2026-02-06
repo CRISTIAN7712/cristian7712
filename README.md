@@ -44,9 +44,15 @@
   <img src="https://github-readme-stats-git-masterhst-p-anurag-hazras-projects.vercel.app/api?username=cristian7712&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristian7712&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats-git-masterhst-p-anurag-hazras-projects.vercel.app/api/top-langs/?username=cristian7712&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
 </p>
+
+| Tendencias de Actividad | Productividad Colaborativa (28d) |
+| :---: | :---: |
+| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" width="400" /> |
+
+| Rendimiento del Repositorio | Contribuidores Activos |
+| :---: | :---: |
+| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=10&image_size=auto" width="400" /> |
 
 ---
 
