@@ -48,11 +48,11 @@
 
 | Tendencias de Actividad | Productividad Colaborativa (28d) |
 | :---: | :---: |
-| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" width="400" /> |
+| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=968949263&image_size=auto" width="400" /> |
 
 | Rendimiento del Repositorio | Contribuidores Activos |
 | :---: | :---: |
-| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=10&image_size=auto" width="400" /> |
+| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=968949263&limit=10&image_size=auto" width="400" /> |
 
 ---
 
