@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:cristian.diaz8918@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portafolio2-0-5eba.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" /></a>
-  <a href="https://github.com/cristian7712"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:cristian.diaz8918@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portafolio2-0-5eba.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/cristian7712"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
