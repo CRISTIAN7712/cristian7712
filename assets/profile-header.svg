@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Cristian David Díaz Tovar</title>
+  <desc id="desc">Desarrollador de software y docente de programación en Pasto, Colombia.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111D30"/><stop offset="1" stop-color="#080F1C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1136" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#77DDCC"/><stop offset="1" stop-color="#77DDCC" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="19" stroke="#263348"/>
+  <path d="M870 0V360M950 0V360M1030 0V360M1110 0V360M830 80H1200M830 160H1200M830 240H1200M830 320H1200" stroke="#91A5C0" stroke-opacity="0.07"/>
+  <circle cx="1044" cy="176" r="108" stroke="#77DDCC" stroke-opacity="0.12"/>
+  <circle cx="1044" cy="176" r="78" stroke="#77DDCC" stroke-opacity="0.08"/>
+  <path d="M1007 149L980 176L1007 203M1081 149L1108 176L1081 203M1056 140L1032 212" stroke="#77DDCC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1136" cy="119" r="5" fill="#77DDCC"/>
+  <rect x="64" y="62" width="28" height="3" rx="1.5" fill="#77DDCC"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="105" y="69" fill="#A8B9D0" font-size="13" font-weight="600" letter-spacing="3">DESARROLLO &amp; EDUCACIÓN</text>
+    <text x="60" y="151" fill="#F3F6FC" font-size="52" font-weight="700" letter-spacing="-1.5">Cristian David</text>
+    <text x="60" y="211" fill="#F3F6FC" font-size="52" font-weight="700" letter-spacing="-1.5">Díaz Tovar<tspan fill="#77DDCC">.</tspan></text>
+    <text x="64" y="255" fill="#B0C0D5" font-size="20">Desarrollador de software · Docente de programación</text>
+    <text x="64" y="318" fill="#8398B3" font-size="13" letter-spacing="2">PASTO, COLOMBIA</text>
+    <text x="1136" y="318" text-anchor="end" fill="#8398B3" font-size="13" letter-spacing="2">CRISTIAN7712</text>
+  </g>
+  <path d="M64 285H1136" stroke="url(#accent)" stroke-opacity="0.5"/>
+</svg>
