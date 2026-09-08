@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="88" viewBox="0 0 360 88" fill="none" role="img" aria-labelledby="title">
+<title id="title">REPOSITORIOS — Del concepto al código</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101322"/><stop offset="1" stop-color="#080A12"/></linearGradient>
+<linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B6FF6C"/><stop offset=".47" stop-color="#68E8DC"/><stop offset="1" stop-color="#A999FF"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#7B62CC" stop-opacity=".26"/><stop offset="1" stop-color="#7B62CC" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#7D849F" opacity=".17"/></pattern>
+</defs>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}@media(prefers-reduced-motion:reduce){.orbit,.float,.pulse{animation:none!important}}</style>
+<rect x="1" y="1" width="358" height="86" rx="24" fill="url(#bg)" stroke="#282D42"/>
+<rect x="1" y="1" width="358" height="86" rx="14" fill="#B7A5FF" fill-opacity=".04" stroke="#B7A5FF" stroke-opacity=".22"/><text x="23" y="34" font-size="13" fill="#B7A5FF" font-weight="600" class="mono" letter-spacing="1.5">REPOSITORIOS</text><text x="23" y="61" font-size="16" fill="#ABB2C9" font-weight="400" >Del concepto al código</text><text x="322" y="49" font-size="25" fill="#B7A5FF" font-weight="400" >↗</text></svg>

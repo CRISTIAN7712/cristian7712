@@ -1,80 +1,80 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Cristian David Díaz Tovar — Desarrollador de software y docente de programación. Pasto, Colombia." />
+  <img src="./assets/profile-header.svg" width="100%" alt="Cristian David Díaz Tovar. Ideas que se convierten en código. Código que se comparte. Desarrollador de software y docente de programación en Pasto, Colombia." />
 </p>
 
 <p align="center">
-  Desarrollo soluciones prácticas y convierto conceptos complejos<br />
-  en experiencias de aprendizaje claras.
+  <a href="https://portafolio-personal-cristian-diaz.vercel.app/"><img src="./assets/portfolio.svg" width="31%" alt="Portafolio — Explora mi trabajo" /></a>
+  <a href="https://github.com/cristian7712?tab=repositories"><img src="./assets/repositories.svg" width="31%" alt="Repositorios — Del concepto al código" /></a>
+  <a href="mailto:cristian.diaz8918@gmail.com"><img src="./assets/email.svg" width="31%" alt="Contacto — Iniciemos una conversación" /></a>
 </p>
+
+<br />
+
+### `01 / IDENTIDAD` &nbsp; Dos vocaciones. Una misma curiosidad.
+
+Soy **Cristian David Díaz Tovar**, desarrollador de software y docente de programación en **Pasto, Colombia**. Me mueve entender cómo funcionan las cosas, construir soluciones útiles y compartir lo que aprendo.
+
+Para mí, escribir código y enseñar tienen algo en común: **hacer que lo complejo tenga sentido**.
 
 <p align="center">
-  <a href="https://portafolio-personal-cristian-diaz.vercel.app/"><strong>Mi portafolio ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:cristian.diaz8918@gmail.com"><strong>Hablemos ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/cristian7712?tab=repositories"><strong>Mis repositorios ↗</strong></a>
+  <img src="./assets/build.svg" width="400" alt="Desarrollo: construir con intención. De la lógica a la implementación, con soluciones prácticas y código mantenible." />
+  <img src="./assets/teach.svg" width="400" alt="Docencia: hacer simple lo complejo. Aprender programación con fundamentos, práctica y proyectos reales." />
 </p>
 
 <br />
 
-## Software con propósito. Conocimiento que se comparte.
+<p align="center">
+  <img src="./assets/toolkit.svg" width="100%" alt="Tecnologías. Lenguajes: Python, Java, JavaScript y SQL. Frontend: React. Backend: Node.js, Django y Spring Boot. Herramientas: Git, Docker, VS Code e IntelliJ IDEA." />
+</p>
 
-Soy **Cristian David Díaz Tovar**, desarrollador de software y docente de programación en **Pasto, Nariño, Colombia**. Me interesa el punto donde la tecnología y la educación se encuentran: construir herramientas útiles y ayudar a otras personas a entender cómo funcionan.
-
-Mi trabajo parte de una idea sencilla: una buena solución debe ser tan clara de entender como práctica de usar. Por eso, doy prioridad a la lógica, al código mantenible y al aprendizaje a través de proyectos reales.
-
-<br />
-
-## Lo que guía mi trabajo
-
-| Desarrollo de software | Enseñanza de programación |
-| :--- | :--- |
-| Transformar problemas en soluciones simples y mantenibles. | Conectar los fundamentos con su aplicación en proyectos reales. |
-| Construir con atención a la calidad y a las buenas prácticas. | Explicar paso a paso, desde la lógica hasta la implementación. |
-| Revisar, aprender e iterar para mejorar cada solución. | Crear experiencias que inviten a practicar y experimentar. |
-
-<br />
-
-## Tecnologías
-
-Herramientas con las que desarrollo y enseño.
+<details>
+<summary><strong>Explorar el stack en texto</strong></summary>
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | Python · Java · JavaScript · SQL |
-| **Frontend** | React |
-| **Backend** | Node.js · Django · Spring Boot |
-| **Desarrollo y herramientas** | Git · Docker · Visual Studio Code · IntelliJ IDEA |
+| Lenguajes | Python · Java · JavaScript · SQL |
+| Frontend | React |
+| Backend | Node.js · Django · Spring Boot |
+| Herramientas | Git · Docker · Visual Studio Code · IntelliJ IDEA |
+
+</details>
 
 <br />
 
-## En qué estoy trabajando
+### `03 / EN EL RADAR` &nbsp; El aprendizaje no se detiene.
 
-- **Arquitectura y calidad:** fortaleciendo mis habilidades de diseño de software y buenas prácticas.
-- **Educación interactiva:** diseñando experiencias que ayuden a aprender programación haciendo.
-- **Automatización:** explorando formas de simplificar tareas y mejorar los flujos de trabajo.
+```text
+cristian@pasto ~ $ learning --in-progress
 
-Mi proceso: **aprender → construir → enseñar → mejorar**.
+  [01] Arquitectura de software
+       Diseñar mejor. Cuidar las buenas prácticas.
+
+  [02] Educación interactiva
+       Transformar conceptos en práctica.
+       Aprender haciendo.
+
+  [03] Automatización
+       Simplificar tareas. Mejorar los flujos.
+```
 
 <br />
 
-## Más allá del código
+### `04 / FUERA DEL EDITOR` &nbsp; Otras formas de conectar.
 
-La educación, los idiomas y el aprendizaje continuo también forman parte de mi camino.
+La curiosidad también me lleva a la educación, los idiomas y el crecimiento continuo.
 
-**Español** · Nativo &nbsp; / &nbsp; **Inglés** · Intermedio &nbsp; / &nbsp; **Italiano** · Principiante
+**ES** Español nativo &nbsp; · &nbsp; **EN** Inglés intermedio &nbsp; · &nbsp; **IT** Italiano principiante
 
 <br />
 
----
+<a href="mailto:cristian.diaz8918@gmail.com">
+  <img src="./assets/connect.svg" width="100%" alt="¿Tienes un proyecto en mente? Conversemos sobre software, educación o tecnología con propósito." />
+</a>
 
 <p align="center">
-  <strong>¿Tienes un proyecto en mente?</strong><br />
-  Me interesa colaborar en iniciativas de software, educación y tecnología con propósito.
+  <a href="mailto:cristian.diaz8918@gmail.com"><strong>cristian.diaz8918@gmail.com</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://portafolio-personal-cristian-diaz.vercel.app/">Portafolio ↗</a>
 </p>
 
-<p align="center">
-  <a href="mailto:cristian.diaz8918@gmail.com">cristian.diaz8918@gmail.com</a>
-  <br />
-  <sub>Pasto, Colombia · Aprender, construir y compartir.</sub>
-</p>
+<p align="center"><sub>Desde Pasto, Colombia · Con lógica, curiosidad y propósito.</sub></p>

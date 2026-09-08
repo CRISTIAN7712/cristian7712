@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="326" viewBox="0 0 560 326" fill="none" role="img" aria-labelledby="title">
+<title id="title">Hacer simple lo complejo. Aprender programación haciendo. Fundamentos, práctica y proyectos que conectan ideas con resultados.</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101322"/><stop offset="1" stop-color="#080A12"/></linearGradient>
+<linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B6FF6C"/><stop offset=".47" stop-color="#68E8DC"/><stop offset="1" stop-color="#A999FF"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#7B62CC" stop-opacity=".26"/><stop offset="1" stop-color="#7B62CC" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#7D849F" opacity=".17"/></pattern>
+</defs>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}@media(prefers-reduced-motion:reduce){.orbit,.float,.pulse{animation:none!important}}</style>
+<rect x="1" y="1" width="558" height="324" rx="24" fill="url(#bg)" stroke="#282D42"/>
+<text x="32" y="43" font-size="13" fill="#B9A5FF" font-weight="500" class="mono">02</text><text x="64" y="43" font-size="12" fill="#A6ADC4" font-weight="500" class="mono" letter-spacing="2">DOCENCIA</text><path d="M32 63H528" stroke="#292D41"/><path d="M34 90C49 85 60 89 70 96C80 89 91 85 107 90V127C92 122 82 126 70 133C58 126 48 122 34 127ZM70 96V133" stroke="#B9A5FF" stroke-width="2.5" stroke-linejoin="round"/><text x="32" y="180" font-size="29" fill="#F3F4FA" font-weight="650" letter-spacing="-.8">Hacer simple lo complejo.</text><text x="32" y="217" font-size="19" fill="#ABB2C9" font-weight="400" >Aprender programación haciendo.</text><text x="32" y="244" font-size="19" fill="#ABB2C9" font-weight="400" >Fundamentos, práctica y proyectos</text><text x="32" y="271" font-size="19" fill="#ABB2C9" font-weight="400" >que conectan ideas con resultados.</text><rect x="32" y="296" width="38" height="3" rx="1.5" fill="#B9A5FF"/></svg>
