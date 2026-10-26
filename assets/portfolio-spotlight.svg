@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Cristian OS — Explora mi portafolio</title>
+<desc id="desc">Un punto de encuentro para mi trabajo en software y educación. Abrir cristian-os-portafolio.vercel.app.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#18233B"/><stop offset="1" stop-color="#0B101C"/></linearGradient><linearGradient id="accent"><stop stop-color="#B6FF6C"/><stop offset="1" stop-color="#68E8DC"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#A999FF" stroke-opacity=".09"/></pattern></defs>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}.float{animation:float 6s ease-in-out infinite}@keyframes float{50%{transform:translateY(-4px)}}@media(prefers-reduced-motion:reduce){.float{animation:none}}</style>
+<rect x="1" y="1" width="1198" height="248" rx="22" fill="url(#bg)" stroke="#3A4867"/>
+<rect x="760" y="2" width="438" height="246" rx="22" fill="url(#grid)"/>
+<rect x="1" y="33" width="4" height="184" rx="2" fill="url(#accent)"/>
+<text x="36" y="42" font-size="12" fill="#68E8DC" letter-spacing="2" class="mono">PORTAFOLIO / EXPLORA MI TRABAJO</text>
+<text x="33" y="112" font-size="58" font-weight="750" fill="#F4F6FD" letter-spacing="-2">Cristian<tspan fill="#B6FF6C"> OS.</tspan></text>
+<text x="36" y="150" font-size="18" fill="#B3BED5">Software, ideas y conocimiento en un mismo lugar.</text>
+<rect x="36" y="178" width="218" height="42" rx="9" fill="#B6FF6C"/>
+<text x="56" y="205" font-size="15" fill="#101923" font-weight="700">Explorar portafolio</text><path d="M220 192L228 200L220 208M214 200H228" stroke="#101923" stroke-width="2"/>
+<text x="276" y="204" font-size="12" fill="#A6B2CC" class="mono">cristian-os-portafolio.vercel.app</text>
+<g class="float">
+<rect x="827" y="37" width="300" height="179" rx="12" fill="#080D17" stroke="#4C5A79"/>
+<path d="M827 68H1127" stroke="#2C3650"/><circle cx="846" cy="52" r="3" fill="#FF8FA8"/><circle cx="858" cy="52" r="3" fill="#F0C58B"/><circle cx="870" cy="52" r="3" fill="#B6FF6C"/>
+<text x="1109" y="56" text-anchor="end" font-size="9" fill="#A6B2CC" class="mono">CRISTIAN OS</text>
+<rect x="844" y="83" width="45" height="116" rx="6" fill="#162035"/><path d="M856 99H877M856 113H871M856 127H877" stroke="#68E8DC" stroke-width="2"/>
+<text x="905" y="110" font-size="18" font-weight="700" fill="#F4F6FD">Ideas en acción.</text>
+<rect x="905" y="123" width="127" height="5" rx="2" fill="#43516F"/><rect x="905" y="136" width="91" height="5" rx="2" fill="#43516F"/>
+<rect x="905" y="157" width="60" height="42" rx="5" fill="#B6FF6C" fill-opacity=".13" stroke="#B6FF6C" stroke-opacity=".35"/><rect x="977" y="157" width="60" height="42" rx="5" fill="#68E8DC" fill-opacity=".13" stroke="#68E8DC" stroke-opacity=".35"/><rect x="1049" y="157" width="60" height="42" rx="5" fill="#A999FF" fill-opacity=".13" stroke="#A999FF" stroke-opacity=".35"/>
+<path d="M927 170L920 178L927 186M942 170L949 178L942 186" stroke="#B6FF6C" stroke-width="2"/><circle cx="1007" cy="178" r="9" stroke="#68E8DC" stroke-width="2"/><path d="M1070 184L1079 171L1088 184Z" stroke="#A999FF" stroke-width="2"/>
+</g>
+</svg>

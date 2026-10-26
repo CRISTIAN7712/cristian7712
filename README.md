@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="#sobre-mí">Sobre mí</a> &nbsp; / &nbsp;
+  <a href="#github-en-datos">GitHub en datos</a> &nbsp; / &nbsp;
   <a href="#tecnologías">Tecnologías</a> &nbsp; / &nbsp;
   <a href="#en-el-radar">En el radar</a> &nbsp; / &nbsp;
   <a href="#conectemos">Conectemos</a>
@@ -30,9 +31,37 @@ Mi enfoque combina **código mantenible, fundamentos sólidos y aprendizaje a tr
 
 ## Portafolio
 
-Mi trabajo tiene un nuevo punto de encuentro: **Cristian OS**. Explora mi portafolio y conoce más sobre lo que desarrollo.
+<a href="https://cristian-os-portafolio.vercel.app/">
+  <img src="./assets/portfolio-spotlight.svg" width="100%" alt="Cristian OS — Mi portafolio. Explora mi trabajo y conoce mi enfoque como desarrollador y docente. Abrir portafolio." />
+</a>
 
 **[Abrir Cristian OS →](https://cristian-os-portafolio.vercel.app/)** &nbsp; · &nbsp; [Explorar código en GitHub ↗](https://github.com/cristian7712?tab=repositories)
+
+## GitHub en datos
+
+Una mirada a lo que construyo, las tecnologías que exploro y mi actividad a lo largo del tiempo.
+
+<a href="https://github.com/cristian7712?tab=repositories">
+  <img src="./assets/stats/github-overview.svg" width="100%" alt="Resumen de GitHub: repositorios públicos, estrellas recibidas, seguidores y contribuciones del calendario anual. Fecha de actualización incluida en la gráfica." />
+</a>
+
+<a href="https://github.com/cristian7712?tab=overview">
+  <img src="./assets/stats/github-activity.svg" width="100%" alt="Mapa de contribuciones de GitHub del último año, días activos, máximo diario y barras de actividad de las últimas doce semanas." />
+</a>
+
+<a href="https://github.com/cristian7712?tab=repositories">
+  <img src="./assets/stats/github-languages.svg" width="100%" alt="Gráfica de anillo y barras con la distribución del lenguaje principal por repositorio propio público; excluye forks y repositorios sin lenguaje detectado del cálculo porcentual." />
+</a>
+
+<details>
+<summary><strong>Cómo leer estas gráficas</strong></summary>
+
+- **Repositorios:** todos mis repositorios públicos. Las estrellas corresponden a repositorios propios, excluyendo forks.
+- **Actividad:** contribuciones que GitHub muestra en mi calendario público del último año. Cada celda representa un día; las barras agrupan las últimas doce semanas y los extremos pueden ser semanas parciales.
+- **Lenguajes:** cada repositorio propio público cuenta una vez según su lenguaje principal detectado por GitHub. Los porcentajes se calculan sobre los repositorios con lenguaje detectado; representan distribución de proyectos, no dominio técnico ni líneas de código.
+- **Actualización:** diaria mediante GitHub Actions; la fecha de la última generación aparece en el panel. [Consultar los datos en GitHub ↗](https://github.com/cristian7712)
+
+</details>
 
 ## Tecnologías
 
