@@ -1,11 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="558" viewBox="0 0 1200 558" fill="none" role="img" aria-labelledby="title">
-<title id="title">Cristian David Díaz Tovar. Ideas que se convierten en código. Código que se comparte. Desarrollador de software y docente de programación en Pasto, Colombia.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Cristian David Díaz Tovar — Software y educación</title>
+<desc id="desc">Construyo soluciones. Comparto conocimiento. Desarrollador de software y docente de programación en Pasto, Colombia.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101322"/><stop offset="1" stop-color="#080A12"/></linearGradient>
-<linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B6FF6C"/><stop offset=".47" stop-color="#68E8DC"/><stop offset="1" stop-color="#A999FF"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#7B62CC" stop-opacity=".26"/><stop offset="1" stop-color="#7B62CC" stop-opacity="0"/></radialGradient>
-<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#7D849F" opacity=".17"/></pattern>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12192D"/><stop offset="1" stop-color="#080B14"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#B6FF6C"/><stop offset=".5" stop-color="#68E8DC"/><stop offset="1" stop-color="#A999FF"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#7D68DB" stop-opacity=".23"/><stop offset="1" stop-color="#7D68DB" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="#8D9ABB" stroke-opacity=".08"/></pattern>
 </defs>
-<style>text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}.orbit{transform-origin:938px 265px;animation:spin 48s linear infinite}.float{animation:drift 9s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes drift{50%{transform:translateY(-7px)}}@media(prefers-reduced-motion:reduce){.orbit,.float,.pulse{animation:none!important}}</style>
-<rect x="1" y="1" width="1198" height="556" rx="24" fill="url(#bg)" stroke="#282D42"/>
-<rect x="700" y="24" width="475" height="500" rx="16" fill="url(#dots)"/><ellipse cx="960" cy="256" rx="270" ry="260" fill="url(#glow)"/><text x="48" y="53" font-size="22" fill="#B6FF6C" font-weight="700" >CD /</text><text x="122" y="52" font-size="13" fill="#9EA5BF" font-weight="500" class="mono" letter-spacing="2">CRISTIAN7712</text><text x="1150" y="52" font-size="12" fill="#9EA5BF" font-weight="400" text-anchor="end" class="mono" letter-spacing="1">SOFTWARE × EDUCACIÓN</text><path d="M48 76H1152" stroke="#292D41"/><text x="48" y="123" font-size="13" fill="#B6FF6C" font-weight="500" class="mono" letter-spacing="3">IDEAS QUE SE CONVIERTEN EN</text><text x="43" y="211" font-size="88" fill="#F4F5FB" font-weight="800" letter-spacing="-5">CÓDIGO.</text><text x="43" y="299" font-size="64" fill="#F4F5FB" font-weight="700" letter-spacing="-3">Código que</text><text x="43" y="371" font-size="64" fill="#B6FF6C" font-weight="700" letter-spacing="-3">se comparte.</text><text x="48" y="427" font-size="25" fill="#F4F5FB" font-weight="600" >Cristian David Díaz Tovar</text><text x="48" y="461" font-size="18" fill="#A6ADC4" font-weight="400" >Desarrollador de software · Docente de programación</text><g class="float"><g class="orbit"><ellipse cx="938" cy="265" rx="172" ry="65" transform="rotate(0 938 265)" stroke="url(#spectrum)" stroke-width="1.2" opacity=".68"/><ellipse cx="938" cy="265" rx="172" ry="65" transform="rotate(30 938 265)" stroke="url(#spectrum)" stroke-width="1.2" opacity=".68"/><ellipse cx="938" cy="265" rx="172" ry="65" transform="rotate(60 938 265)" stroke="url(#spectrum)" stroke-width="1.2" opacity=".68"/><ellipse cx="938" cy="265" rx="172" ry="65" transform="rotate(90 938 265)" stroke="url(#spectrum)" stroke-width="1.2" opacity=".68"/><ellipse cx="938" cy="265" rx="172" ry="65" transform="rotate(120 938 265)" stroke="url(#spectrum)" stroke-width="1.2" opacity=".68"/><ellipse cx="938" cy="265" rx="172" ry="65" transform="rotate(150 938 265)" stroke="url(#spectrum)" stroke-width="1.2" opacity=".68"/></g><circle cx="938" cy="265" r="119" stroke="#B5A7FF" stroke-opacity=".2"/><path d="M912 216L878 265L912 314M964 216L998 265L964 314" stroke="#F2F3FB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M949 235L927 295" stroke="#B6FF6C" stroke-width="4" stroke-linecap="round"/><circle cx="938" cy="92" r="6" fill="#B6FF6C"/><circle cx="1109" cy="265" r="4" fill="#C1AFFF"/></g><rect x="849" y="423" width="178" height="31" rx="15" fill="#171B29" stroke="#34394C"/><text x="938" y="443" font-size="12" fill="#B5BBD1" font-weight="400" class="mono" text-anchor="middle" letter-spacing="1">APRENDER → CREAR</text><path d="M48 494H1152" stroke="#292D41"/><circle cx="54" cy="526" r="4" fill="#B6FF6C"/><text x="68" y="531" font-size="12" fill="#A6ADC4" font-weight="400" class="mono" letter-spacing="1.5">PASTO, COLOMBIA</text><text x="1150" y="531" font-size="12" fill="#A6ADC4" font-weight="400" class="mono" text-anchor="end" letter-spacing="1.5">LÓGICA / DISEÑO / APRENDIZAJE</text></svg>
+<style>
+text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}.float{animation:drift 7s ease-in-out infinite}.cursor{animation:blink 1.4s steps(2,end) infinite}.signal{animation:signal 3s ease-in-out infinite}@keyframes drift{50%{transform:translateY(-8px)}}@keyframes blink{50%{opacity:0}}@keyframes signal{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.float,.cursor,.signal{animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="598" rx="24" fill="url(#bg)" stroke="#2C3650"/>
+<rect x="1" y="1" width="1198" height="598" rx="24" fill="url(#grid)"/>
+<ellipse cx="940" cy="290" rx="330" ry="290" fill="url(#halo)"/>
+<path d="M36 2H1164" stroke="url(#accent)" stroke-width="3"/>
+<text x="44" y="51" fill="#B6FF6C" font-size="22" font-weight="800">CD /</text>
+<text x="120" y="49" fill="#B4BED5" font-size="13" letter-spacing="2" class="mono">CRISTIAN7712</text>
+<text x="1155" y="49" fill="#B4BED5" font-size="12" text-anchor="end" letter-spacing="2" class="mono">SOFTWARE × EDUCACIÓN</text>
+<path d="M44 76H1156" stroke="#2C3650"/>
+<text x="44" y="124" fill="#68E8DC" font-size="12" letter-spacing="3" class="mono">DESARROLLADOR DE SOFTWARE / DOCENTE</text>
+<text x="39" y="202" fill="#F4F6FD" font-size="66" font-weight="800" letter-spacing="-3">Construyo</text>
+<text x="39" y="273" fill="#F4F6FD" font-size="66" font-weight="800" letter-spacing="-3">soluciones.</text>
+<text x="41" y="345" fill="#B6FF6C" font-size="53" font-weight="750" letter-spacing="-2">Comparto</text>
+<text x="41" y="405" fill="#B6FF6C" font-size="53" font-weight="750" letter-spacing="-2">conocimiento.</text>
+<text x="44" y="460" fill="#F4F6FD" font-size="23" font-weight="600">Cristian David Díaz Tovar</text>
+<text x="44" y="493" fill="#A6B2CC" font-size="17">De la primera idea al código que cobra sentido.</text>
+<g class="float">
+<rect x="706" y="143" width="449" height="334" rx="16" fill="#070C17" stroke="#3B4663"/>
+<path d="M706 188H1155" stroke="#2C3650"/>
+<circle cx="730" cy="166" r="5" fill="#FF7E91"/><circle cx="749" cy="166" r="5" fill="#F0C58B"/><circle cx="768" cy="166" r="5" fill="#B6FF6C"/>
+<text x="1133" y="171" fill="#94A3C2" font-size="11" text-anchor="end" class="mono">cristian / workspace</text>
+<g class="mono" font-size="17">
+<text x="732" y="230" fill="#9EAECE">const <tspan fill="#68E8DC">developer</tspan> = {</text>
+<text x="751" y="270" fill="#BDCADF">focus: <tspan fill="#B6FF6C">'crear y enseñar'</tspan>,</text>
+<text x="751" y="310" fill="#BDCADF">mindset: <tspan fill="#B6FF6C">'seguir aprendiendo'</tspan>,</text>
+<text x="751" y="350" fill="#BDCADF">location: <tspan fill="#B6FF6C">'Pasto, CO'</tspan></text>
+<text x="732" y="390" fill="#9EAECE">};</text>
+<text x="732" y="442" fill="#68E8DC">&gt; ideas.build()</text>
+</g>
+<rect x="911" y="426" width="9" height="20" fill="#B6FF6C" class="cursor"/>
+</g>
+<path d="M44 529H1156" stroke="#2C3650"/>
+<circle cx="50" cy="563" r="4" fill="#B6FF6C" class="signal"/>
+<text x="65" y="568" fill="#A6B2CC" font-size="12" letter-spacing="1" class="mono">PASTO, COLOMBIA</text>
+<text x="1155" y="568" fill="#A6B2CC" font-size="12" text-anchor="end" letter-spacing="1" class="mono">APRENDER → CONSTRUIR → COMPARTIR</text>
+</svg>
