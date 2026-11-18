@@ -34,7 +34,7 @@ text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}
 <text x="732" y="230" fill="#9EAECE">const <tspan fill="#68E8DC">developer</tspan> = {</text>
 <text x="751" y="270" fill="#BDCADF">focus: <tspan fill="#B6FF6C">'crear y enseñar'</tspan>,</text>
 <text x="751" y="310" fill="#BDCADF">mindset: <tspan fill="#B6FF6C">'seguir aprendiendo'</tspan>,</text>
-<text x="751" y="350" fill="#BDCADF">location: <tspan fill="#B6FF6C">'Pasto, CO'</tspan></text>
+<text x="751" y="350" fill="#BDCADF">location: <tspan fill="#B6FF6C">'Bucaramanga, CO'</tspan></text>
 <text x="732" y="390" fill="#9EAECE">};</text>
 <text x="732" y="442" fill="#68E8DC">&gt; ideas.build()</text>
 </g>
@@ -42,6 +42,6 @@ text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}
 </g>
 <path d="M44 529H1156" stroke="#2C3650"/>
 <circle cx="50" cy="563" r="4" fill="#B6FF6C" class="signal"/>
-<text x="65" y="568" fill="#A6B2CC" font-size="12" letter-spacing="1" class="mono">PASTO, COLOMBIA</text>
+<text x="65" y="568" fill="#A6B2CC" font-size="12" letter-spacing="1" class="mono">BUCARAMANGA, COLOMBIA</text>
 <text x="1155" y="568" fill="#A6B2CC" font-size="12" text-anchor="end" letter-spacing="1" class="mono">APRENDER → CONSTRUIR → COMPARTIR</text>
 </svg>
